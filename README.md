@@ -95,8 +95,8 @@ API 명세 변경이나 이슈 발생 시 팀원에게 바로 공유하고,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=presentk0&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=presentk0&layout=compact&theme=default&hide_border=true&langs_count=8" height="180" alt="languages" />
+![presentk0's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=presentk0&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![presentk0's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=presentk0&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 
 <br/>
 
