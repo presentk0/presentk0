@@ -91,19 +91,11 @@ API 명세 변경이나 이슈 발생 시 팀원에게 바로 공유하고,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=presentk0&theme=flat&no-frame=true&column=7&margin-w=15)
-
-<br/>
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=presentk0&theme=github-light&hide_border=true&area=true)
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=presentk0&theme=default&hide_border=true" height="180" alt="streak" />
+![PresentK's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=presentk0&theme=github-light&hide_border=true&area=true&custom_title=PresentK's%20Contribution%20Graph)
 
 </div>
 
