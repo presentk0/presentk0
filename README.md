@@ -95,12 +95,15 @@ API 명세 변경이나 이슈 발생 시 팀원에게 바로 공유하고,
 
 <div align="center">
 
-![presentk0's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=presentk0&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![presentk0's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=presentk0&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=presentk0&theme=flat&no-frame=true&column=7&margin-w=15)
 
 <br/>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=presentk0&theme=github-light&hide_border=true&area=true)
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=presentk0&theme=default&hide_border=true" height="180" alt="streak" />
 
 </div>
 
