@@ -1,7 +1,5 @@
 <div align="center">
 
-# PresentK
-
 ### Backend Developer | Java · Spring
 
 *데이터로 문제를 발견하고, 도전으로 해결합니다*
@@ -97,10 +95,12 @@ API 명세 변경이나 이슈 발생 시 팀원에게 바로 공유하고,
 
 <div align="center">
 
-![PresentK's GitHub stats](https://github-readme-stats.vercel.app/api?username=presentk0&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=presentk0&layout=compact&theme=default&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api?username=presentk0&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=presentk0&layout=compact&theme=default&hide_border=true&langs_count=8" height="180" alt="languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=presentk0&theme=default&hide_border=true)
+<br/>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=presentk0&theme=github-light&hide_border=true&area=true)
 
 </div>
 
