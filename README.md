@@ -91,16 +91,6 @@ API 명세 변경이나 이슈 발생 시 팀원에게 바로 공유하고,
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![PresentK's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=presentk0&theme=github-light&hide_border=true&area=true&custom_title=PresentK's%20Contribution%20Graph)
-
-</div>
-
----
-
 ## 📫 Contact
 
 - 📧 **Email**: 
