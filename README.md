@@ -93,9 +93,7 @@ API 명세 변경이나 이슈 발생 시 팀원에게 바로 공유하고,
 
 ## 📫 Contact
 
-- 📧 **Email**: 
-- 📝 **Blog**: 
-- 💼 **LinkedIn**: 
+- 📧 **Email**: now.presentk@gmail.com
 ---
 
 <div align="center">
